@@ -1,0 +1,7 @@
+# Environment and Secret Files
+.env
+*.env.local
+
+openAIKey.env
+openAIKey.pages
+openAIKey.txt
