@@ -1,0 +1,6 @@
+# Environment and Secret Files
+.env
+*.env.local
+#/Users/pranjalimhatre/Scaler/AdvancedAI/openAIKey.env
+#/Users/pranjalimhatre/Scaler/AdvancedAI/openAIKey.pages
+#/Users/pranjalimhatre/Scaler/AdvancedAI/openAIKey.txt
