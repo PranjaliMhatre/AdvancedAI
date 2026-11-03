@@ -35,7 +35,7 @@ if not api_key:
 pretty_print("API key loaded successfully.")
 
 client = OpenAI(api_key=api_key)
-pretty_print("OpenAI client ready.")
+#pretty_print("OpenAI client ready.")
 
 # Shared conversation state (for demo only, reset on server restart)
 messages = [
@@ -74,7 +74,7 @@ def index():
 
             usage = resp.usage
             usage_info = f"Prompt: {usage.prompt_tokens}, Completion: {usage.completion_tokens}, Total: {usage.total_tokens}"
-            pretty_print(f"\nReply: {reply}")
+            #pretty_print(f"\nReply: {reply}")
     return render_template("index.html", reply=reply, usage=usage_info)
 
 
