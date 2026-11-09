@@ -1,0 +1,7 @@
+{
+  "EMBED_MODEL": "embeddinggemma:latest",
+  "GEN_MODEL": "llama3.1:8b",
+  "WORDS_PER_CHUNK": 300,
+  "OVERLAP_WORDS": 60,
+  "TOPK": 5
+}
