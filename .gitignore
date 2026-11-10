@@ -5,3 +5,9 @@
 openAIKey.env
 openAIKey.pages
 openAIKey.txt
+
+LLMs_OtherModalities/AI Modalities: Video/videos/MRBean.mov
+LLMs_OtherModalities/AI Modalities: Video/videos/What is your name.mov
+LLMs_OtherModalities/what_is_your_name_audio.wav
+LLMs_OtherModalities/MRBean.wav
+EnhancingSupportBot/chroma_db/chroma.sqlite3
